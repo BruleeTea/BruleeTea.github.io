@@ -1,9 +1,9 @@
 ### Education
 Bachelor of Computer Science - Graduation date: Jun 2022
 Carleton University, Ottawa, Ontario
--Developed a strong foundation in Computer Science, emphasizing analytical and problem-solving skills.
--Acquired Java, Python, SQL, C#, C, and C++ proficiency.
--Fostered teamwork and communication abilities through collaborative projects.
+- Developed a strong foundation in Computer Science, emphasizing analytical and problem-solving skills.
+- Acquired Java, Python, SQL, C#, C, and C++ proficiency.
+- Fostered teamwork and communication abilities through collaborative projects.
 
 
 ### Work Experience
