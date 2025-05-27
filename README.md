@@ -31,6 +31,16 @@ IT Supervisor @ Levy TD Place Stadium (part-time) - October 2024- Present
 
 ![/assets/img/ER Diagram.png](assets/img/ERDiagram.PNG)
 
+## [Calculator – Personal Project](https://github.com/BruleeTea/Calculator)
+*Developed using C# in Visual Studio*
+- Independently conceptualized and built a user-friendly calculator application.
+- Designed a clean and intuitive UI to perform basic arithmetic operations.
+- Implemented core mathematical functions for accurate and efficient calculations.
+- Strengthened problem-solving skills through software design, coding, and debugging.
+- Demonstrated creativity and practical coding abilities in a small-scale project.
+
+![assets/img/calaculatordemo.png](assets/img/calaculatordemo.png)
+
 ### Personal PC Build and Maintenance  - June 2020 - Present
 - Researched and selected compatible hardware components for a custom-built personal computer to meet specific performance and budget requirements.
 - Assembled and configured the PC, including installing the central processing unit (CPU), graphics card, motherboard, memory, storage drives, and power supply.
