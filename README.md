@@ -20,6 +20,7 @@ IT Supervisor @ Levy TD Place Stadium (part-time) - October 2024- Present
 - Developed an Event Management Program using C++ to manage two calendars efficiently. The project aimed to provide hands-on experience with Object-Oriented (OO) concepts, particularly focusing on inheritance, polymorphism, and virtual and pure virtual functions in C++.
 - Implemented inheritance to create a base calendar class with shared functionality and two derived calendar classes with specialized features.
 - Employed virtual and pure virtual functions to create a flexible and extensible architecture for managing events and schedules.
+![UML](https://github.com/BruleeTea/BruleeTea.github.io/blob/main/assets/img/UML.png)
 
 ### [BookStore - Course Project: Database Management Systems](https://github.com/BruleeTea/Book-store)
 - Developed a comprehensive database solution for a virtual bookstore, creating an efficient system to store and manage book information.
@@ -27,7 +28,7 @@ IT Supervisor @ Levy TD Place Stadium (part-time) - October 2024- Present
 - Implemented SQL queries to retrieve and update data, enhancing the system's responsiveness and accuracy.
 - Demonstrated proficiency in database design principles, data normalization, and query optimization
 
-![ER Diagram](/assets/img/ER Diagram.png)
+![/assets/img/ER Diagram.png](https://github.com/BruleeTea/BruleeTea.github.io/blob/main/assets/img/ER%20Diagram.PNG)
 
 ### Personal PC Build and Maintenance  - June 2020 - Present
 - Researched and selected compatible hardware components for a custom-built personal computer to meet specific performance and budget requirements.
