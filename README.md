@@ -1,4 +1,4 @@
-# Computer Science Bachelor | Passionate about Tech and Innovation | Ready to Contribute to the Digital World
+# Passionate about Tech and Innovation, Ready to Contribute to the Digital World
 ### Education
 Bachelor of Computer Science - Graduation date: Jun 2022
 Carleton University, Ottawa, Ontario
