@@ -20,6 +20,7 @@ IT Supervisor @ Levy TD Place Stadium (part-time) - October 2024- Present
 - Developed an Event Management Program using C++ to manage two calendars efficiently. The project aimed to provide hands-on experience with Object-Oriented (OO) concepts, particularly focusing on inheritance, polymorphism, and virtual and pure virtual functions in C++.
 - Implemented inheritance to create a base calendar class with shared functionality and two derived calendar classes with specialized features.
 - Employed virtual and pure virtual functions to create a flexible and extensible architecture for managing events and schedules.
+
 ![UML](https://github.com/BruleeTea/BruleeTea.github.io/blob/main/assets/img/UML.png)
 
 ### [BookStore - Course Project: Database Management Systems](https://github.com/BruleeTea/Book-store)
