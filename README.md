@@ -21,7 +21,7 @@ IT Supervisor @ Levy TD Place Stadium (part-time) - October 2024- Present
 - Implemented inheritance to create a base calendar class with shared functionality and two derived calendar classes with specialized features.
 - Employed virtual and pure virtual functions to create a flexible and extensible architecture for managing events and schedules.
 
-![UML](https://github.com/BruleeTea/BruleeTea.github.io/blob/main/assets/img/UML.png)
+![assets/img/UML.png](https://github.com/BruleeTea/BruleeTea.github.io/blob/main/assets/img/UML.png)
 
 ### [BookStore - Course Project: Database Management Systems](https://github.com/BruleeTea/Book-store)
 - Developed a comprehensive database solution for a virtual bookstore, creating an efficient system to store and manage book information.
