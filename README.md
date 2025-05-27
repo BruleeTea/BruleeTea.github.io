@@ -29,7 +29,7 @@ IT Supervisor @ Levy TD Place Stadium (part-time) - October 2024- Present
 - Implemented SQL queries to retrieve and update data, enhancing the system's responsiveness and accuracy.
 - Demonstrated proficiency in database design principles, data normalization, and query optimization
 
-![/assets/img/ER Diagram.png](/assets/img/ER%Diagram.PNG)
+![/assets/img/ER Diagram.png](assets/img/ERDiagram.PNG)
 
 ### Personal PC Build and Maintenance  - June 2020 - Present
 - Researched and selected compatible hardware components for a custom-built personal computer to meet specific performance and budget requirements.
